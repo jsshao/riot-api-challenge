@@ -38,3 +38,7 @@ line {
   display: block;
   padding-top: 50px;
 }
+
+#item-table_wrapper {
+  padding-bottom: 7px;
+}
