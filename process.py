@@ -315,12 +315,12 @@ def main():
         f.write("name,id,frequent_build,winning_build\n")
         for key in champion_build:
             count, build = max((v, k) for k, v in champion_build[key].items())
-            build = [item_id_to_name[str(i)] for i in build]
+            #build = [item_id_to_name[str(i)] for i in build]
             if key in champion_winning_build:
                 win_count, win_build = max((v, k) for k, v in champion_winning_build[key].items())
-                win_build = [item_id_to_name[str(i)] for i in win_build]
+                #win_build = [item_id_to_name[str(i)] for i in win_build]
             else:
-                win_build = []
+                win_build = () 
             f.write("%s, %d, %s, %s\n" % (champion_id_to_name[str(key)], key, str(build).replace(",", ";"), str(win_build).replace(",", ";")))
             
 if __name__ == "__main__":
