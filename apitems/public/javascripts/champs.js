@@ -9,22 +9,34 @@
       d3.csv('/data/'+data_version+'/champ_11.csv', process, function(err, champs_11) {
         module.champs_11 = champs_11;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
       d3.csv('/data/'+data_version+'/champ_14.csv', process, function(err, champs_14) {
         module.champs_14 = champs_14;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
       d3.csv('/data/'+data_version+'/ap_champ_14.csv', process, function(err, ap_champs_14) {
         module.ap_champs_14 = ap_champs_14;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
       d3.csv('/data/'+data_version+'/ap_champ_11.csv', process, function(err, ap_champs_11) {
         module.ap_champs_11 = ap_champs_11;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
     });
     d3.json('/data/'+data_version+'/item11.json', function(err, item11) {
@@ -33,12 +45,18 @@
       d3.csv('/data/'+data_version+'/ap_champ_build_11.csv', fix11, function(err, ap_champs_build_11) {
         module.ap_champs_build_11 = ap_champs_build_11;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
       d3.csv('/data/'+data_version+'/champ_build_11.csv', fix11, function(err, champs_build_11) {
         module.champs_build_11 = champs_build_11;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
 
     });
@@ -48,12 +66,18 @@
         console.log(err);
         module.ap_champs_build_14 = ap_champs_build_14;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
       d3.csv('/data/'+data_version+'/champ_build_14.csv', fix14, function(err, champs_build_14) {
         module.champs_build_14 = champs_build_14;
         loaded += 1;
-        if (loaded == total_loads) callback();
+        if (loaded == total_loads) {
+          $('#load').remove();
+          callback();
+        }
       });
     });
   }

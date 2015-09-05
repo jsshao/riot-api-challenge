@@ -17,31 +17,46 @@
     d3.csv('/data/'+data_version+'/ap_items.csv', itemToInt, function(err, ap_items) {
       module.ap_items = ap_items;
       loaded += 1;
-      if (loaded == 5) callback();
+      if (loaded == 5) {
+          $('#load').remove();
+          callback();
+      }
     });
     d3.csv('/data/'+data_version+'/big_items.csv', itemToInt, function(err, big_items) {
       module.big_items = big_items;
       loaded += 1;
-      if (loaded == 5) callback();
+      if (loaded == 5) {
+          $('#load').remove();
+          callback();
+      }
     });
     d3.csv('/data/'+data_version+'/full_items.csv', itemToInt, function(err, full_items) {
       module.full_items = full_items;
       loaded += 1;
-      if (loaded == 5) callback();
+      if (loaded == 5) {
+          $('#load').remove();
+          callback();
+      }
     });
     d3.csv('/data/'+data_version+'/item_14.csv', process, function(err, items_14) {
       //filter out undefined rows
       items_14 = items_14.filter(function(d) {return d.id && $.inArray(d.id, forbidden_items) == -1 });
       module.items_14 = items_14;
       loaded += 1;
-      if (loaded == 5) callback();
+      if (loaded == 5) {
+          $('#load').remove();
+          callback();
+      }
     });
     d3.csv('/data/'+data_version+'/item_11.csv', process, function(err, items_11) {
       //filter out undefined rows
       items_11 = items_11.filter(function(d) {return d.id && $.inArray(d.id, forbidden_items) == -1 });
       module.items_11 = items_11;
       loaded += 1;
-      if (loaded == 5) callback();
+      if (loaded == 5) {
+          $('#load').remove();
+          callback();
+      }
     });
   }
 
