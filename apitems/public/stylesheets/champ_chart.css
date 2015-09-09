@@ -44,3 +44,7 @@ line {
 #champ-table_wrapper {
   padding-bottom: 7px;
 }
+
+.popover{
+  max-width: 100%; /* Max Width of the popover (depending on the container!) */
+}

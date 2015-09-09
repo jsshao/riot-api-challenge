@@ -119,7 +119,7 @@
   function process(data) {
     data.id = +data.id;
     data.key = data.name;
-    data.name = real_name(data);
+    data.name = real_name(data.name);
     data.popularity = +data.popularity;
     data.winrate = +data.winrate;
     return data;
@@ -183,14 +183,90 @@
       o[v.id] = v;
       return o;
     }, {});
+
+    var champ_build11 = module.champs_build_11.concat(module.ap_champs_build_11);
+    var champ_build14 = module.champs_build_14.concat(module.ap_champs_build_14);
+    var build_11_map = {};
+    var build_14_map = {};
+    for (var i = 0; i < champ_build11.length; i++) {
+        build_11_map[real_name(champ_build11[i].name)] = champ_build11[i];
+    }
+    for (var i = 0; i < champ_build14.length; i++) {
+        build_14_map[real_name(champ_build14[i].name)] = champ_build14[i];
+    }
+
     champs14.forEach(function (champ) {
       var processed = {}
-      // if (champ.name.split(" ")[0] == "AP") {
-      //   processed.name = "<a href='/champ/"+champ.id+"?ap=1'>"+champ.name+'</a>';
-      // } else {
-      //   processed.name = "<a href='/champ/"+champ.id+"'>"+champ.name+'</a>';
-      // }
-      processed.name = champ.name;
+      var champ_hover = "Most Frequent Build on Patch 5.11<br>";
+      if (champ.name in build_11_map) {
+          var items = build_11_map[champ.name].frequent_build.replace(/ /g,'').split(';');
+          if (items.length != 7)
+              champ_hover += "No build existed<br><br>";
+          else {
+              for (var i = 0; i < items.length; i++) {
+                  champ_hover += '<img src="' + get_item_image(items[i]) + '"></img>';
+              }
+              champ_hover += '<br><br>';
+          }
+      }
+      else
+          champ_hover += "No build existed<br><br>";
+      champ_hover += "Most Frequent Winning Build on Patch 5.11<br>";
+
+      if (champ.name in build_11_map) {
+          items = build_11_map[champ.name].winning_build.replace(/ /g,'').split(';');
+          if (items.length != 7)
+              champ_hover += "No build existed<br><br>";
+          else {
+              for (var i = 0; i < items.length; i++) {
+                  champ_hover += '<img src="' + get_item_image(items[i]) + '"></img>';
+              }
+              champ_hover += '<br><br>';
+          }
+      }
+      else
+          champ_hover += "No build existed<br><br>";
+
+      champ_hover += "Most Frequent Build on Patch 5.14<br>";
+      if (champ.name in build_14_map) {
+          var items = build_14_map[champ.name].frequent_build.replace(/ /g,'').split(';');
+          if (items.length != 7)
+              champ_hover += "No build existed<br><br>";
+          else {
+              for (var i = 0; i < items.length; i++) {
+                  champ_hover += '<img src="' + get_item_image(items[i]) + '"></img>';
+              }
+              champ_hover += '<br><br>';
+          }
+      }
+      else
+          champ_hover += "No build existed<br><br>";
+      champ_hover += "Most Frequent Winning Build on Patch 5.14<br>";
+
+      if (champ.name in build_14_map) {
+          items = build_14_map[champ.name].winning_build.replace(/ /g,'').split(';');
+          if (items.length != 7)
+              champ_hover += "No build existed<br><br>";
+          else {
+              for (var i = 0; i < items.length; i++) {
+                  champ_hover += '<img src="' + get_item_image(items[i]) + '"></img>';
+              }
+              champ_hover += '<br><br>';
+          }
+      }
+      else
+          champ_hover += "No build existed<br><br>";
+      processed.name = "<a href='#!' id='ma_link' data-toggle='popover' data-trigger='focus' name='" + champ.name + "' data-content='" + champ_hover + "'>"+champ.name+'</a>';
+      /*
+      if (champ.name.split(" ")[0] == "AP") {
+        processed.name = "<a href='#' data-toggle='popover' title='" + champ.name + "' data-content='Some stuff'>"+champ.name+'</a>';
+        //processed.name = "<a href='/champ/"+champ.id+"?ap=1'>"+champ.name+'</a>';
+      } else {
+        processed.name = "<a href='#' data-toggle='popover' title='" + champ.name + "' data-content='Some stuff'>"+champ.name+'</a>';
+        //processed.name = "<a href='/champ/"+champ.id+"'>"+champ.name+'</a>';
+      }
+      //processed.name = champ.name;
+      */
       processed.winrate14 = champ.winrate;
       processed.popularity14 = champ.popularity;
       if (map11[champ.id]) {
@@ -200,14 +276,15 @@
         processed.winrate11 = "-";
         processed.popularity11 = "-";
       } 
+      processed.champ_name = champ.name;
       champs.push(processed);
     });
-    champs.sort(function(a,b) {return a.name.localeCompare(b.name)});
+    champs.sort(function(a,b) {return a.champ_name.localeCompare(b.champ_name)});
     return champs;
   }
 
   function real_name(champ) {
-    var split = champ.name.split(" ");
+    var split = champ.split(" ");
     if (split[0] == 'AP') {
       var champ_dict = module.champion_data['data'][split[1]];
       return 'AP '+champ_dict['name'];
@@ -227,6 +304,11 @@
     var version = champ_dict['version'];
     var image = champ_dict['image']['full']; 
     return "https://ddragon.leagueoflegends.com/cdn/"+version+"/img/champion/"+image;
+  }
+
+  function get_item_image(item) {
+    version = $('#patch').val();
+    return "https://ddragon.leagueoflegends.com/cdn/"+version+".1/img/item/"+item+".png";
   }
 
   window.addEventListener('load', function(){
@@ -512,6 +594,7 @@
           } else row.push('-');
           table.append('<tr><td>'+row.join('</td><td>')+'</td></tr>');
         });
+        $('[data-toggle="popover"]').popover({html: true});   
         table.append('</tbody>');
           jQuery.extend( jQuery.fn.dataTableExt.oSort, {
             "percent-pre": function ( a ) {
@@ -528,11 +611,10 @@
             }
           } );
         table.DataTable({'columnDefs': [
-          {'type':'percent', 'targets':[1,2,3,4,5,6]}
+          {'type':'percent', 'targets':[0,1,2,3,4,5,6]}
           ]});
     });
-    
-    
+   
     $('#type').on('click', function() {
       if ($('#type').val() == 'ap') {
         $('#type').val('all'); 

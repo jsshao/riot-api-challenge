@@ -1,122 +1,122 @@
 name,id,frequent_build,winning_build
-AP Annie, 1, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Olaf, 2, [u"Doran's Blade"; u'Health Potion'; u'Mana Potion'; u'Kindlegem'; u'Trinity Force'; u"Mercury's Treads"; u'Warding Totem (Trinket)'], [u'Ruby Crystal'; u"Doran's Shield"; u'Crystalline Flask'; u'Ninja Tabi'; u'Tiamat (Melee Only)'; u'Trinity Force'; u'Warding Totem (Trinket)']
-AP Galio, 3, [u'Abyssal Scepter'; u'Spirit Visage'; u'Thornmail'; u"Mercury's Treads"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Abyssal Scepter'; u'Spirit Visage'; u"Rabadon's Deathcap"; u"Mercury's Treads"; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u'Warding Totem (Trinket)']
-AP TwistedFate, 4, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP XinZhao, 5, [u'Lich Bane'; u"Nashor's Tooth"; u'Boots of Mobility'; u"Randuin's Omen"; u"Zhonya's Hourglass"; u'Greater Stealth Totem (Trinket)'; u"Devourer - Stalker's Blade"], [u'Lich Bane'; u'Frozen Heart'; u"Mercury's Treads"; u"Guinsoo's Rageblade"; u"Zhonya's Hourglass"; u'Greater Stealth Totem (Trinket)'; u"Magus - Stalker's Blade"]
-AP Urgot, 6, [u'Boots of Speed'; u'Health Potion'; u'Glacial Shroud'; u'Muramana'; u'Trinity Force'; u"Warden's Mail"; u'Warding Totem (Trinket)'], []
-AP Leblanc, 7, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Vladimir, 8, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u'Will of the Ancients'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u'Will of the Ancients'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP FiddleSticks, 9, [u'Blasting Wand'; u'Amplifying Tome'; u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"], [u'Blasting Wand'; u'Amplifying Tome'; u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"]
-AP Kayle, 10, [u"Doran's Ring"; u"Sorcerer's Shoes"; u"Runaan's Hurricane (Ranged Only)"; u"Rabadon's Deathcap"; u"Nashor's Tooth"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Doran's Ring"; u"Sorcerer's Shoes"; u"Runaan's Hurricane (Ranged Only)"; u"Rabadon's Deathcap"; u'Lich Bane'; u"Nashor's Tooth"; u'Warding Totem (Trinket)']
-AP MasterYi, 11, [u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u"Oracle's Lens (Trinket)"], [u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u'Needlessly Large Rod'; u"Oracle's Lens (Trinket)"]
-AP Alistar, 12, [u'Amplifying Tome'; u"Doran's Ring"; u'Lich Bane'; u"Liandry's Torment"; u'Ionian Boots of Lucidity'; u'Ancient Coin'; u'Greater Stealth Totem (Trinket)'], [u"Rabadon's Deathcap"; u'Lich Bane'; u"Mercury's Treads"; u'Morellonomicon'; u"Spectre's Cowl"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Ryze, 13, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Sion, 14, [u'Glacial Shroud'; u"Rylai's Crystal Scepter"; u"Randuin's Omen"; u"Liandry's Torment"; u'Ionian Boots of Lucidity'; u'Farsight Orb (Trinket)'; u"Zz'Rot Portal"], [u'Glacial Shroud'; u"Rylai's Crystal Scepter"; u"Randuin's Omen"; u"Liandry's Torment"; u'Ionian Boots of Lucidity'; u'Farsight Orb (Trinket)'; u"Zz'Rot Portal"]
-AP Sivir, 15, [u'Health Potion'; u'Mana Potion'; u'Vision Ward'; u'Stealth Ward'; u'Elixir of Wrath'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], []
-AP Soraka, 16, [u'Sightstone'; u'Talisman of Ascension'; u'Aether Wisp'; u'Forbidden Idol'; u'Ionian Boots of Lucidity'; u"Athene's Unholy Grail"; u'Warding Totem (Trinket)'], [u'Sightstone'; u"Mejai's Soulstealer"; u'Sheen'; u'Talisman of Ascension'; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Teemo, 17, [u"Sorcerer's Shoes"; u"Runaan's Hurricane (Ranged Only)"; u"Rabadon's Deathcap"; u"Nashor's Tooth"; u'Void Staff'; u"Liandry's Torment"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Nashor's Tooth"; u'Void Staff'; u"Liandry's Torment"; u'Morellonomicon'; u'Warding Totem (Trinket)']
-AP Tristana, 18, [u"Sorcerer's Shoes"; u"Mejai's Soulstealer"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Berserker's Greaves"; u"Mejai's Soulstealer"; u'Sheen'; u"Rabadon's Deathcap"; u"Nashor's Tooth"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Warwick, 19, [u"Rabadon's Deathcap"; u"Wit's End"; u'Boots of Mobility'; u'Hextech Gunblade'; u'Blade of the Ruined King'; u'Warding Totem (Trinket)'; u"Devourer - Ranger's Trailblazer"], [u"Rabadon's Deathcap"; u"Wit's End"; u'Boots of Mobility'; u'Hextech Gunblade'; u'Blade of the Ruined King'; u'Warding Totem (Trinket)'; u"Devourer - Ranger's Trailblazer"]
-AP Nunu, 20, [u"Frost Queen's Claim"; u"Mercury's Treads"; u"Rylai's Crystal Scepter"; u"Randuin's Omen"; u'Will of the Ancients'; u"Spectre's Cowl"; u'Warding Totem (Trinket)'], [u"Rabadon's Deathcap"; u'Boots of Mobility'; u"Seeker's Armguard"; u"Luden's Echo"; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"; u'Righteous Glory']
-AP MissFortune, 21, [u"Rabadon's Deathcap"; u"Rylai's Crystal Scepter"; u"Liandry's Torment"; u'Ionian Boots of Lucidity'; u'Morellonomicon'; u"Luden's Echo"; u'Greater Vision Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Last Whisper'; u"Rabadon's Deathcap"; u'Lich Bane'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Ashe, 22, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Rabadon's Deathcap"; u"Rabadon's Deathcap"; u'Void Staff'; u"Luden's Echo"; u'Greater Stealth Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Rabadon's Deathcap"; u"Rabadon's Deathcap"; u'Void Staff'; u"Luden's Echo"; u'Greater Stealth Totem (Trinket)']
-AP Tryndamere, 23, [u'Last Whisper'; u"Rabadon's Deathcap"; u'Lich Bane'; u"Nashor's Tooth"; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u'Warding Totem (Trinket)'], [u'Last Whisper'; u"Rabadon's Deathcap"; u'Lich Bane'; u"Nashor's Tooth"; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u'Greater Vision Totem (Trinket)']
-AP Jax, 24, [u'Recurve Bow'; u'Health Potion'; u'Crystalline Flask'; u'Ninja Tabi'; u'Trinity Force'; u'Bilgewater Cutlass'; u'Warding Totem (Trinket)'], [u'Recurve Bow'; u'Health Potion'; u'Crystalline Flask'; u'Ninja Tabi'; u'Trinity Force'; u'Bilgewater Cutlass'; u'Warding Totem (Trinket)']
-AP Morgana, 25, [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u"Zhonya's Hourglass"; u'Morellonomicon'; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Zilean, 26, [u'Blasting Wand'; u'Sightstone'; u'Tear of the Goddess'; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u"Spellthief's Edge"; u"Oracle's Lens (Trinket)"], [u"Rabadon's Deathcap"; u'Void Staff'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Singed, 27, [u'Rod of Ages'; u"Seraph's Embrace"; u'Thornmail'; u"Mercury's Treads"; u"Rylai's Crystal Scepter"; u"Liandry's Torment"; u'Warding Totem (Trinket)'], [u'Rod of Ages'; u'Tear of the Goddess'; u'Thornmail'; u"Warmog's Armor"; u"Mercury's Treads"; u"Rylai's Crystal Scepter"; u'Warding Totem (Trinket)']
-AP Evelynn, 28, [u'Iceborn Gauntlet'; u"Banshee's Veil"; u'Boots of Mobility'; u"Randuin's Omen"; u'Hextech Gunblade'; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"], [u'Iceborn Gauntlet'; u"Banshee's Veil"; u'Boots of Mobility'; u"Randuin's Omen"; u'Hextech Gunblade'; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"]
-AP Twitch, 29, [u'Boots of Speed'; u'Dagger'; u"Doran's Ring"; u'Health Potion'; u'Mana Potion'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], []
-AP Karthus, 30, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Chogath, 31, [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u'Rod of Ages'; u'Frozen Heart'; u"Mercury's Treads"; u'Warding Totem (Trinket)'], [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u'Rod of Ages'; u'Frozen Heart'; u"Mercury's Treads"; u'Warding Totem (Trinket)']
-AP Amumu, 32, [u'Ninja Tabi'; u'Frozen Heart'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"; u'Righteous Glory'], [u'Ninja Tabi'; u'Frozen Heart'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"; u'Righteous Glory']
-AP Rammus, 33, [u"Giant's Belt"; u'Abyssal Scepter'; u'Iceborn Gauntlet'; u'Thornmail'; u'Boots of Mobility'; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"], [u'Abyssal Scepter'; u'Rod of Ages'; u'Ninja Tabi'; u'Thornmail'; u"Rylai's Crystal Scepter"; u'Farsight Orb (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"]
-AP Anivia, 34, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Shaco, 35, [u'Blasting Wand'; u"Seraph's Embrace"; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Aether Wisp'; u'Boots of Mobility'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'; u"Stalker's Blade"]
-AP DrMundo, 36, [u'Ninja Tabi'; u'Trinity Force'; u"Warmog's Armor"; u"Rylai's Crystal Scepter"; u"Liandry's Torment"; u'Warding Totem (Trinket)'; u"Cinderhulk - Stalker's Blade"], [u'Raptor Cloak'; u'Abyssal Scepter'; u'Sunfire Cape'; u"Warden's Mail"; u'Boots of Mobility'; u"Liandry's Torment"; u'Warding Totem (Trinket)']
-AP Sona, 37, [u'Sightstone'; u'Sheen'; u"Frost Queen's Claim"; u'Aether Wisp'; u'Ionian Boots of Lucidity'; u'Warding Totem (Trinket)'; u'Ardent Censer'], [u'Sightstone'; u"Frost Queen's Claim"; u'Aether Wisp'; u'Ionian Boots of Lucidity'; u"Athene's Unholy Grail"; u'Warding Totem (Trinket)'; u'Ardent Censer']
-AP Kassadin, 38, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Lich Bane'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Lich Bane'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Irelia, 39, [u"Giant's Belt"; u'Health Potion'; u'Crystalline Flask'; u'Ninja Tabi'; u'Trinity Force'; u"Warden's Mail"; u'Warding Totem (Trinket)'], [u'Dagger'; u'Dagger'; u'Crystalline Flask'; u'Ninja Tabi'; u'Trinity Force'; u'Bilgewater Cutlass'; u'Warding Totem (Trinket)']
-AP Janna, 40, [u'Sightstone'; u"Mejai's Soulstealer"; u'Talisman of Ascension'; u'Fiendish Codex'; u'Aether Wisp'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'], [u'Sightstone'; u"Mejai's Soulstealer"; u'Talisman of Ascension'; u'Aether Wisp'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'; u'Ardent Censer']
-AP Gangplank, 41, [u'Long Sword'; u'Pickaxe'; u'Vampiric Scepter'; u'Ninja Tabi'; u'Trinity Force'; u'Statikk Shiv'; u'Warding Totem (Trinket)'], [u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u'Morellonomicon'; u'Greater Stealth Totem (Trinket)']
-AP Corki, 42, [u'Cloak of Agility'; u'Pickaxe'; u'B. F. Sword'; u"Doran's Blade"; u"Sorcerer's Shoes"; u'Trinity Force'; u'Warding Totem (Trinket)'], [u'B. F. Sword'; u"Doran's Blade"; u'Health Potion'; u'Mana Potion'; u"Sorcerer's Shoes"; u'Trinity Force'; u'Warding Totem (Trinket)']
-AP Karma, 43, [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Amplifying Tome'; u'Sightstone'; u"Sorcerer's Shoes"; u"Frost Queen's Claim"; u'Haunting Guise'; u'Morellonomicon'; u'Sweeping Lens (Trinket)']
-AP Taric, 44, [u'Iceborn Gauntlet'; u'Ninja Tabi'; u'Sunfire Cape'; u"Rylai's Crystal Scepter"; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u'Face of the Mountain'], [u'Iceborn Gauntlet'; u'Ninja Tabi'; u'Sunfire Cape'; u"Rylai's Crystal Scepter"; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u'Face of the Mountain']
-AP Veigar, 45, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Trundle, 48, [u'Pickaxe'; u'Vampiric Scepter'; u"Doran's Blade"; u'Mana Potion'; u'Iceborn Gauntlet'; u'Ninja Tabi'; u'Warding Totem (Trinket)'], [u'Pickaxe'; u'Vampiric Scepter'; u"Doran's Blade"; u'Mana Potion'; u'Iceborn Gauntlet'; u'Ninja Tabi'; u'Warding Totem (Trinket)']
-AP Swain, 50, [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u'Rod of Ages'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u'Rod of Ages'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Blitzcrank, 53, [u'Sightstone'; u'Catalyst the Protector'; u'Iceborn Gauntlet'; u'Boots of Mobility'; u'Ancient Coin'; u'Warding Totem (Trinket)'; u'Crystalline Bracer'], [u'Sightstone'; u'Catalyst the Protector'; u'Iceborn Gauntlet'; u"Targon's Brace"; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'; u'Crystalline Bracer']
-AP Malphite, 54, [u'Abyssal Scepter'; u'Iceborn Gauntlet'; u'Ninja Tabi'; u'Sunfire Cape'; u'Frozen Heart'; u"Liandry's Torment"; u'Warding Totem (Trinket)'], [u'Abyssal Scepter'; u'Iceborn Gauntlet'; u'Ninja Tabi'; u'Sunfire Cape'; u'Frozen Heart'; u"Liandry's Torment"; u'Warding Totem (Trinket)']
-AP Katarina, 55, [u'Abyssal Scepter'; u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Abyssal Scepter'; u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Nocturne, 56, [u'Chain Vest'; u'Null-Magic Mantle'; u'Ninja Tabi'; u'Trinity Force'; u'Bilgewater Cutlass'; u'Warding Totem (Trinket)'; u"Stalker's Blade"], []
-AP Maokai, 57, [u"Doran's Ring"; u'Health Potion'; u'Mana Potion'; u'Rod of Ages'; u'Spirit Visage'; u"Mercury's Treads"; u'Warding Totem (Trinket)'], [u"Doran's Ring"; u'Iceborn Gauntlet'; u'Rod of Ages'; u'Spirit Visage'; u"Mercury's Treads"; u'Warding Totem (Trinket)'; u"Bami's Cinder"]
-AP JarvanIV, 59, [u"Rabadon's Deathcap"; u'Lich Bane'; u'Aether Wisp'; u'Boots of Mobility'; u'Void Staff'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u'Pickaxe'; u'Health Potion'; u'Mana Potion'; u'Crystalline Flask'; u'Trinity Force'; u"Mercury's Treads"; u'Warding Totem (Trinket)']
-AP Elise, 60, [u'Blasting Wand'; u'Abyssal Scepter'; u"Sorcerer's Shoes"; u'Frozen Heart'; u"Liandry's Torment"; u'Warding Totem (Trinket)'; u"Cinderhulk - Skirmisher's Sabre"], [u'Lich Bane'; u'Boots of Mobility'; u"Liandry's Torment"; u'Will of the Ancients'; u"Luden's Echo"; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"]
-AP Orianna, 61, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP MonkeyKing, 62, [u'Vision Ward'; u'Elixir of Iron'; u'Trinity Force'; u'Boots of Mobility'; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u"Warrior - Stalker's Blade"], [u'Vision Ward'; u'Elixir of Iron'; u'Trinity Force'; u'Boots of Mobility'; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u"Warrior - Stalker's Blade"]
-AP Brand, 63, [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u"Liandry's Torment"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u"Liandry's Torment"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP LeeSin, 64, [u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u'Warding Totem (Trinket)'], [u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u"Mejai's Soulstealer"; u'Warding Totem (Trinket)']
-AP Vayne, 67, [u"Doran's Ring"; u"Doran's Ring"; u"Doran's Ring"; u"Doran's Ring"; u"Doran's Ring"; u'Mana Potion'; u'Scrying Orb (Trinket)'], [u"Doran's Ring"; u"Doran's Ring"; u"Doran's Ring"; u"Doran's Ring"; u"Doran's Ring"; u'Mana Potion'; u'Scrying Orb (Trinket)']
-AP Rumble, 68, [u"Giant's Belt"; u'Blasting Wand'; u'Amplifying Tome'; u"Sorcerer's Shoes"; u"Liandry's Torment"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u'Abyssal Scepter'; u"Sorcerer's Shoes"; u"Rylai's Crystal Scepter"; u'Void Staff'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Cassiopeia, 69, [u"Sorcerer's Shoes"; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Skarner, 72, [u'Trinity Force'; u"Warmog's Armor"; u"Wit's End"; u'Frozen Heart'; u"Mercury's Treads"; u"Guinsoo's Rageblade"; u'Warding Totem (Trinket)'], [u'Trinity Force'; u"Warmog's Armor"; u"Wit's End"; u'Frozen Heart'; u"Mercury's Treads"; u"Guinsoo's Rageblade"; u'Warding Totem (Trinket)']
-AP Heimerdinger, 74, [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u"Zhonya's Hourglass"; u'Morellonomicon'; u'Warding Totem (Trinket)'], [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u"Zhonya's Hourglass"; u'Morellonomicon'; u'Warding Totem (Trinket)']
-AP Nasus, 75, [u'Iceborn Gauntlet'; u'Spirit Visage'; u'Trinity Force'; u'Frozen Heart'; u"Mercury's Treads"; u"Randuin's Omen"; u'Warding Totem (Trinket)'], [u'Iceborn Gauntlet'; u'Spirit Visage'; u'Trinity Force'; u'Frozen Heart'; u"Mercury's Treads"; u"Randuin's Omen"; u'Warding Totem (Trinket)']
-AP Nidalee, 76, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Udyr, 77, [u'Cloth Armor'; u'Cloth Armor'; u'Glacial Shroud'; u'Trinity Force'; u"Mercury's Treads"; u'Warding Totem (Trinket)'; u"Cinderhulk - Stalker's Blade"], [u'Cloth Armor'; u'Cloth Armor'; u'Glacial Shroud'; u'Trinity Force'; u"Mercury's Treads"; u'Warding Totem (Trinket)'; u"Cinderhulk - Stalker's Blade"]
-AP Poppy, 78, [u'Trinity Force'; u'Frozen Heart'; u'Hextech Gunblade'; u'Ionian Boots of Lucidity'; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u'Righteous Glory'], [u'Trinity Force'; u'Frozen Heart'; u'Hextech Gunblade'; u'Ionian Boots of Lucidity'; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u'Righteous Glory']
-AP Gragas, 79, [u"Sorcerer's Shoes"; u'Spirit Visage'; u'Sunfire Cape'; u'Lich Bane'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'; u"Magus - Stalker's Blade"], [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u'Rod of Ages'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Pantheon, 80, [u'Needlessly Large Rod'; u"Rabadon's Deathcap"; u'Fiendish Codex'; u'Boots of Mobility'; u'Haunting Guise'; u"Luden's Echo"; u'Greater Vision Totem (Trinket)'], [u'Needlessly Large Rod'; u"Rabadon's Deathcap"; u'Fiendish Codex'; u'Boots of Mobility'; u'Haunting Guise'; u"Luden's Echo"; u'Greater Vision Totem (Trinket)']
-AP Ezreal, 81, [u'Long Sword'; u'Pickaxe'; u"Doran's Blade"; u'Muramana'; u'Trinity Force'; u'Ionian Boots of Lucidity'; u'Warding Totem (Trinket)'], [u'Long Sword'; u'Pickaxe'; u"Doran's Blade"; u'Manamune'; u'Trinity Force'; u'Ionian Boots of Lucidity'; u'Warding Totem (Trinket)']
-AP Mordekaiser, 82, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Rylai's Crystal Scepter"; u"Liandry's Torment"; u'Will of the Ancients'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Rylai's Crystal Scepter"; u'Will of the Ancients'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Yorick, 83, [u'Muramana'; u'The Bloodthirster'; u'Trinity Force'; u"Warmog's Armor"; u'Hextech Gunblade'; u'Ionian Boots of Lucidity'; u'Farsight Orb (Trinket)'], [u'Muramana'; u'The Bloodthirster'; u'Trinity Force'; u"Warmog's Armor"; u'Hextech Gunblade'; u'Ionian Boots of Lucidity'; u'Farsight Orb (Trinket)']
-AP Akali, 84, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u'Hextech Gunblade'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u"Rylai's Crystal Scepter"; u'Hextech Gunblade'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Kennen, 85, [u'Amplifying Tome'; u"Doran's Blade"; u'Health Potion'; u"Sorcerer's Shoes"; u'Haunting Guise'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u'Blasting Wand'; u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Garen, 86, [u"Doran's Ring"; u'Health Potion'; u'Mana Potion'; u'Crystalline Flask'; u'Vision Ward'; u'Stealth Ward'; u'Warding Totem (Trinket)'], []
-AP Leona, 89, [u'Rod of Ages'; u'Sunfire Cape'; u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u"Randuin's Omen"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Rod of Ages'; u'Sunfire Cape'; u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u"Randuin's Omen"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Malzahar, 90, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Talon, 91, [u'Long Sword'; u'Crystalline Flask'; u'Trinity Force'; u'Avarice Blade'; u'The Brutalizer'; u'Ionian Boots of Lucidity'; u'Warding Totem (Trinket)'], []
-AP Riven, 92, [u'Needlessly Large Rod'; u'Void Staff'; u'Haunting Guise'; u'Ionian Boots of Lucidity'; u'Morellonomicon'; u'Warding Totem (Trinket)'; u'Ardent Censer'], [u'Needlessly Large Rod'; u'Void Staff'; u'Haunting Guise'; u'Ionian Boots of Lucidity'; u'Morellonomicon'; u'Warding Totem (Trinket)'; u'Ardent Censer']
-AP KogMaw, 96, [u"Sorcerer's Shoes"; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Farsight Orb (Trinket)'], [u"Sorcerer's Shoes"; u"Seraph's Embrace"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Farsight Orb (Trinket)']
-AP Shen, 98, [u'Cloth Armor'; u'Chain Vest'; u"Doran's Shield"; u'Ninja Tabi'; u'Sunfire Cape'; u'Trinity Force'; u'Warding Totem (Trinket)'], [u"Rabadon's Deathcap"; u'Lich Bane'; u'Stinger'; u"Rylai's Crystal Scepter"; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Lux, 99, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Xerath, 101, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Shyvana, 102, [u"Rylai's Crystal Scepter"; u'Void Staff'; u"Liandry's Torment"; u'Will of the Ancients'; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Rylai's Crystal Scepter"; u'Void Staff'; u"Liandry's Torment"; u'Will of the Ancients'; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Ahri, 103, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Graves, 104, [u'Abyssal Scepter'; u'Infinity Edge'; u'The Bloodthirster'; u'Statikk Shiv'; u"Rabadon's Deathcap"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u'Abyssal Scepter'; u'Infinity Edge'; u'The Bloodthirster'; u'Statikk Shiv'; u"Rabadon's Deathcap"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Fizz, 105, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Volibear, 106, [u'Trinity Force'; u"Warmog's Armor"; u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u'Warding Totem (Trinket)'; u"Cinderhulk - Skirmisher's Sabre"; u'Crystalline Bracer'], [u'Trinity Force'; u"Warmog's Armor"; u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u'Warding Totem (Trinket)'; u"Cinderhulk - Skirmisher's Sabre"; u'Crystalline Bracer']
-AP Rengar, 107, [u"Rabadon's Deathcap"; u'Aether Wisp'; u'Void Staff'; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Sweeping Lens (Trinket)'], [u"Rabadon's Deathcap"; u'Aether Wisp'; u'Void Staff'; u"Zhonya's Hourglass"; u'Ionian Boots of Lucidity'; u"Luden's Echo"; u'Sweeping Lens (Trinket)']
-AP Varus, 110, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Nashor's Tooth"; u'Void Staff'; u"Seeker's Armguard"; u"Luden's Echo"; u'Greater Vision Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u"Nashor's Tooth"; u'Void Staff'; u"Seeker's Armguard"; u"Luden's Echo"; u'Greater Vision Totem (Trinket)']
-AP Nautilus, 111, [u'Abyssal Scepter'; u'Iceborn Gauntlet'; u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u"Liandry's Torment"; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"], [u'Abyssal Scepter'; u'Iceborn Gauntlet'; u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u"Liandry's Torment"; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"]
-AP Viktor, 112, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Perfect Hex Core'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Perfect Hex Core'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Sejuani, 113, [u'Abyssal Scepter'; u'Frozen Heart'; u'Boots of Mobility'; u"Liandry's Torment"; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"], [u'Abyssal Scepter'; u'Frozen Heart'; u'Boots of Mobility'; u"Liandry's Torment"; u"Spectre's Cowl"; u'Warding Totem (Trinket)'; u"Cinderhulk - Ranger's Trailblazer"]
-AP Fiora, 114, [u'Pickaxe'; u'Vampiric Scepter'; u"Doran's Blade"; u"Doran's Blade"; u'Trinity Force'; u'Ionian Boots of Lucidity'; u'Warding Totem (Trinket)'], []
-AP Ziggs, 115, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Lulu, 117, [u'Mana Potion'; u'Total Biscuit of Rejuvenation'; u'Sightstone'; u'Frostfang'; u'Fiendish Codex'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'], [u'Blasting Wand'; u"Doran's Ring"; u'Needlessly Large Rod'; u"Sorcerer's Shoes"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Draven, 119, [u"Doran's Blade"; u"Doran's Blade"; u'Health Potion'; u"Berserker's Greaves"; u'The Bloodthirster'; u'Trinity Force'; u'Scrying Orb (Trinket)'], [u"Doran's Blade"; u"Doran's Blade"; u'Health Potion'; u"Berserker's Greaves"; u'The Bloodthirster'; u'Trinity Force'; u'Scrying Orb (Trinket)']
-AP Hecarim, 120, [u'Ruby Crystal'; u'Null-Magic Mantle'; u'Crystalline Flask'; u'Ninja Tabi'; u'Trinity Force'; u'Frozen Heart'; u'Warding Totem (Trinket)'], [u'Cloth Armor'; u'Health Potion'; u'Crystalline Flask'; u'Spirit Visage'; u'Trinity Force'; u"Mercury's Treads"; u'Warding Totem (Trinket)']
-AP Khazix, 121, [u'Long Sword'; u'Vampiric Scepter'; u'Stinger'; u'Boots of Mobility'; u'The Brutalizer'; u'Hextech Gunblade'; u'Warding Totem (Trinket)'], []
-AP Darius, 122, [u'Health Potion'; u'Mana Potion'; u'Sunfire Cape'; u'Trinity Force'; u"Mercury's Treads"; u'Hexdrinker'; u'Warding Totem (Trinket)'], [u'Health Potion'; u'Mana Potion'; u'Sunfire Cape'; u'Trinity Force'; u"Mercury's Treads"; u'Hexdrinker'; u'Warding Totem (Trinket)']
-AP Lissandra, 127, [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u'Rod of Ages'; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Diana, 131, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Quinn, 133, [u'Boots of Speed'; u'Vampiric Scepter'; u'Health Potion'; u'Mana Potion'; u'Crystalline Flask'; u'Trinity Force'; u'Warding Totem (Trinket)'], []
-AP Syndra, 134, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u"Athene's Unholy Grail"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Zyra, 143, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Liandry's Torment"; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Gnar, 150, [u'Cloth Armor'; u'Chain Vest'; u"Doran's Blade"; u'Ninja Tabi'; u'Trinity Force'; u"Randuin's Omen"; u'Warding Totem (Trinket)'], [u'Ruby Crystal'; u'Null-Magic Mantle'; u"Doran's Blade"; u'Sunfire Cape'; u'Trinity Force'; u"Mercury's Treads"; u'Warding Totem (Trinket)']
-AP Zac, 154, [u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u"Randuin's Omen"; u"Liandry's Torment"; u'Will of the Ancients'; u'Warding Totem (Trinket)'; u"Cinderhulk - Skirmisher's Sabre"], [u"Rylai's Crystal Scepter"; u'Boots of Mobility'; u"Randuin's Omen"; u"Liandry's Torment"; u'Will of the Ancients'; u'Warding Totem (Trinket)'; u"Cinderhulk - Skirmisher's Sabre"]
-AP Yasuo, 157, [u'Boots of Speed'; u"Doran's Blade"; u'Health Potion'; u'Stealth Ward'; u'Trinity Force'; u'Statikk Shiv'; u'Sweeping Lens (Trinket)'], [u'Boots of Speed'; u"Doran's Blade"; u'Health Potion'; u'Stealth Ward'; u'Trinity Force'; u'Statikk Shiv'; u'Sweeping Lens (Trinket)']
-AP Velkoz, 161, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Braum, 201, [u'Amplifying Tome'; u'Ruby Sightstone'; u'Trinity Force'; u'Stinger'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'; u'Face of the Mountain'], [u'Amplifying Tome'; u'Ruby Sightstone'; u'Trinity Force'; u'Stinger'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'; u'Face of the Mountain']
-AP Jinx, 222, [u'Needlessly Large Rod'; u"Mejai's Soulstealer"; u'Fiendish Codex'; u'Fiendish Codex'; u"Seeker's Armguard"; u"Seeker's Armguard"; u'Warding Totem (Trinket)'], []
-AP Lucian, 236, [u'Pickaxe'; u'B. F. Sword'; u'Vampiric Scepter'; u"Doran's Blade"; u"Berserker's Greaves"; u'Trinity Force'; u'Warding Totem (Trinket)'], [u'B. F. Sword'; u"Doran's Blade"; u'Health Potion'; u'Mana Potion'; u"Berserker's Greaves"; u'Trinity Force'; u'Warding Totem (Trinket)']
-AP Zed, 238, [u'Boots of Speed'; u"Doran's Blade"; u'Health Potion'; u'Ravenous Hydra (Melee Only)'; u'Trinity Force'; u'The Brutalizer'; u'Warding Totem (Trinket)'], [u'Boots of Speed'; u"Doran's Blade"; u'Health Potion'; u'Ravenous Hydra (Melee Only)'; u'Trinity Force'; u'The Brutalizer'; u'Warding Totem (Trinket)']
-AP Ekko, 245, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Lich Bane'; u'Void Staff'; u"Zhonya's Hourglass"; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Vi, 254, [u"Giant's Belt"; u'Cloth Armor'; u'Cloth Armor'; u'Ninja Tabi'; u'Trinity Force'; u'Warding Totem (Trinket)'; u"Warrior - Stalker's Blade"], [u"Giant's Belt"; u'Health Potion'; u'Ninja Tabi'; u'Trinity Force'; u"Warden's Mail"; u'Warding Totem (Trinket)'; u"Warrior - Stalker's Blade"]
-AP Aatrox, 266, [u"Giant's Belt"; u'Ninja Tabi'; u"Warden's Mail"; u"Nashor's Tooth"; u'Blade of the Ruined King'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'], [u"Giant's Belt"; u'Ninja Tabi'; u"Warden's Mail"; u"Nashor's Tooth"; u'Blade of the Ruined King'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)']
-AP Nami, 267, [u'Sightstone'; u"Frost Queen's Claim"; u'Fiendish Codex'; u'Aether Wisp'; u'Boots of Mobility'; u"Mikael's Crucible"; u'Sweeping Lens (Trinket)'], [u'Sightstone'; u"Frost Queen's Claim"; u'Fiendish Codex'; u'Aether Wisp'; u'Boots of Mobility'; u"Mikael's Crucible"; u'Sweeping Lens (Trinket)']
-AP Azir, 268, [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)'], [u"Sorcerer's Shoes"; u"Rabadon's Deathcap"; u'Void Staff'; u"Zhonya's Hourglass"; u'Morellonomicon'; u"Luden's Echo"; u'Warding Totem (Trinket)']
-AP Thresh, 412, [u'Banner of Command'; u'Spirit Visage'; u'Sunfire Cape'; u'Talisman of Ascension'; u"Mercury's Treads"; u"Rylai's Crystal Scepter"; u'Warding Totem (Trinket)'], [u'Sightstone'; u"Mejai's Soulstealer"; u'Boots of Mobility'; u'Morellonomicon'; u"Luden's Echo"; u'Ancient Coin'; u'Warding Totem (Trinket)']
-AP RekSai, 421, [u'Aether Wisp'; u'Aether Wisp'; u'Aether Wisp'; u'Aether Wisp'; u'Aether Wisp'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'], [u'Fiendish Codex'; u"Mercury's Treads"; u'Forbidden Idol'; u'Hexdrinker'; u"Zhonya's Hourglass"; u'Warding Totem (Trinket)'; u"Warrior - Stalker's Blade"]
-AP Bard, 432, [u'Mana Potion'; u'Total Biscuit of Rejuvenation'; u'Vision Ward'; u'Sightstone'; u"Frost Queen's Claim"; u'Boots of Mobility'; u'Sweeping Lens (Trinket)'], [u'Total Biscuit of Rejuvenation'; u'Sightstone'; u'Chalice of Harmony'; u"Frost Queen's Claim"; u'Forbidden Idol'; u'Boots of Mobility'; u'Sweeping Lens (Trinket)']
+AP Annie, 1, 3020;3027;3089;3135;3157;3285;3340, 3020;3027;3089;3135;3157;3285;3340
+AP Olaf, 2, 1055;2003;2004;3067;3078;3111;3340, 1028;1054;2041;3047;3077;3078;3340
+AP Galio, 3, 3001;3065;3075;3111;3174;3285;3340, 3001;3065;3089;3111;3157;3174;3340
+AP TwistedFate, 4, 3020;3089;3100;3135;3157;3285;3340, 3020;3089;3100;3135;3157;3285;3340
+AP XinZhao, 5, 3100;3115;3117;3143;3157;3361;3710, 3100;3110;3111;3124;3157;3361;3708
+AP Urgot, 6, 1001;2003;3024;3042;3078;3082;3340, 
+AP Leblanc, 7, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Vladimir, 8, 3020;3089;3135;3152;3157;3285;3340, 3020;3089;3135;3152;3157;3285;3340
+AP FiddleSticks, 9, 1026;1052;3020;3089;3157;3340;3708, 1026;1052;3020;3089;3157;3340;3708
+AP Kayle, 10, 1056;3020;3085;3089;3115;3157;3340, 1056;3020;3085;3089;3100;3115;3340
+AP MasterYi, 11, 1058;1058;1058;1058;1058;1058;3364, 1058;1058;1058;1058;1058;1058;3364
+AP Alistar, 12, 1052;1056;3100;3151;3158;3301;3361, 3089;3100;3111;3165;3211;3285;3340
+AP Ryze, 13, 3020;3027;3040;3089;3135;3157;3340, 3020;3027;3040;3089;3135;3157;3340
+AP Sion, 14, 3024;3116;3143;3151;3158;3363;3512, 3024;3116;3143;3151;3158;3363;3512
+AP Sivir, 15, 2003;2004;2043;2044;2140;3157;3340, 
+AP Soraka, 16, 2049;3069;3113;3114;3158;3174;3340, 2049;3041;3057;3069;3158;3285;3340
+AP Teemo, 17, 3020;3085;3089;3115;3135;3151;3340, 3020;3089;3115;3135;3151;3165;3340
+AP Tristana, 18, 3020;3041;3089;3135;3157;3285;3340, 3006;3041;3057;3089;3115;3157;3340
+AP Warwick, 19, 3089;3091;3117;3146;3153;3340;3726, 3089;3091;3117;3146;3153;3340;3726
+AP Nunu, 20, 3092;3111;3116;3143;3152;3211;3340, 3089;3117;3191;3285;3340;3708;3800
+AP MissFortune, 21, 3089;3116;3151;3158;3165;3285;3362, 3020;3035;3089;3100;3157;3285;3340
+AP Ashe, 22, 3020;3089;3089;3089;3135;3285;3361, 3020;3089;3089;3089;3135;3285;3361
+AP Tryndamere, 23, 3035;3089;3100;3115;3157;3158;3340, 3035;3089;3100;3115;3157;3158;3362
+AP Jax, 24, 1043;2003;2041;3047;3078;3144;3340, 1043;2003;2041;3047;3078;3144;3340
+AP Morgana, 25, 1026;1056;1058;3020;3157;3165;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Zilean, 26, 1026;2049;3070;3158;3285;3303;3364, 3089;3135;3151;3157;3158;3285;3340
+AP Singed, 27, 3027;3040;3075;3111;3116;3151;3340, 3027;3070;3075;3083;3111;3116;3340
+AP Evelynn, 28, 3025;3102;3117;3143;3146;3340;3708, 3025;3102;3117;3143;3146;3340;3708
+AP Twitch, 29, 1001;1042;1056;2003;2004;3157;3340, 
+AP Karthus, 30, 3020;3027;3040;3089;3135;3157;3340, 3020;3027;3040;3089;3135;3157;3340
+AP Chogath, 31, 1026;1056;1058;3027;3110;3111;3340, 1026;1056;1058;3027;3110;3111;3340
+AP Amumu, 32, 3047;3110;3151;3157;3340;3725;3800, 3047;3110;3151;3157;3340;3725;3800
+AP Rammus, 33, 1011;3001;3025;3075;3117;3340;3725, 3001;3027;3047;3075;3116;3363;3725
+AP Anivia, 34, 3020;3027;3040;3089;3135;3157;3340, 3020;3027;3040;3089;3135;3157;3340
+AP Shaco, 35, 1026;3040;3157;3158;3165;3285;3340, 3113;3117;3151;3157;3285;3340;3706
+AP DrMundo, 36, 3047;3078;3083;3116;3151;3340;3709, 2053;3001;3068;3082;3117;3151;3340
+AP Sona, 37, 2049;3057;3092;3113;3158;3340;3504, 2049;3092;3113;3158;3174;3340;3504
+AP Kassadin, 38, 3020;3027;3089;3100;3157;3285;3340, 3020;3027;3089;3100;3157;3285;3340
+AP Irelia, 39, 1011;2003;2041;3047;3078;3082;3340, 1042;1042;2041;3047;3078;3144;3340
+AP Janna, 40, 2049;3041;3069;3108;3113;3117;3341, 2049;3041;3069;3113;3117;3341;3504
+AP Gangplank, 41, 1036;1037;1053;3047;3078;3087;3340, 3089;3100;3135;3157;3158;3165;3361
+AP Corki, 42, 1018;1037;1038;1055;3020;3078;3340, 1038;1055;2003;2004;3020;3078;3340
+AP Karma, 43, 1026;1056;1058;3020;3165;3285;3340, 1052;2049;3020;3092;3136;3165;3341
+AP Taric, 44, 3025;3047;3068;3116;3211;3340;3401, 3025;3047;3068;3116;3211;3340;3401
+AP Veigar, 45, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Trundle, 48, 1037;1053;1055;2004;3025;3047;3340, 1037;1053;1055;2004;3025;3047;3340
+AP Swain, 50, 1026;1056;1058;3020;3027;3157;3340, 1026;1056;1058;3020;3027;3157;3340
+AP Blitzcrank, 53, 2049;3010;3025;3117;3301;3340;3801, 2049;3010;3025;3097;3117;3341;3801
+AP Malphite, 54, 3001;3025;3047;3068;3110;3151;3340, 3001;3025;3047;3068;3110;3151;3340
+AP Katarina, 55, 3001;3020;3089;3135;3157;3285;3340, 3001;3020;3089;3135;3157;3285;3340
+AP Nocturne, 56, 1031;1033;3047;3078;3144;3340;3706, 
+AP Maokai, 57, 1056;2003;2004;3027;3065;3111;3340, 1056;3025;3027;3065;3111;3340;3751
+AP JarvanIV, 59, 3089;3100;3113;3117;3135;3157;3340, 1037;2003;2004;2041;3078;3111;3340
+AP Elise, 60, 1026;3001;3020;3110;3151;3340;3717, 3100;3117;3151;3152;3285;3340;3708
+AP Orianna, 61, 3020;3089;3135;3157;3174;3285;3340, 3020;3089;3135;3157;3174;3285;3340
+AP MonkeyKing, 62, 2043;2138;3078;3117;3211;3340;3707, 2043;2138;3078;3117;3211;3340;3707
+AP Brand, 63, 1026;1056;1058;3020;3151;3285;3340, 1026;1056;1058;3020;3151;3285;3340
+AP LeeSin, 64, 3041;3041;3041;3041;3041;3041;3340, 3041;3041;3041;3041;3041;3041;3340
+AP Vayne, 67, 1056;1056;1056;1056;1056;2004;3342, 1056;1056;1056;1056;1056;2004;3342
+AP Rumble, 68, 1011;1026;1052;3020;3151;3157;3340, 3001;3020;3116;3135;3151;3157;3340
+AP Cassiopeia, 69, 3020;3040;3089;3135;3157;3285;3340, 3020;3040;3089;3135;3157;3285;3340
+AP Skarner, 72, 3078;3083;3091;3110;3111;3124;3340, 3078;3083;3091;3110;3111;3124;3340
+AP Heimerdinger, 74, 1026;1056;1058;3020;3157;3165;3340, 1026;1056;1058;3020;3157;3165;3340
+AP Nasus, 75, 3025;3065;3078;3110;3111;3143;3340, 3025;3065;3078;3110;3111;3143;3340
+AP Nidalee, 76, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Udyr, 77, 1029;1029;3024;3078;3111;3340;3709, 1029;1029;3024;3078;3111;3340;3709
+AP Poppy, 78, 3078;3110;3146;3158;3211;3340;3800, 3078;3110;3146;3158;3211;3340;3800
+AP Gragas, 79, 3020;3065;3068;3100;3157;3340;3708, 1026;1056;1058;3020;3027;3157;3340
+AP Pantheon, 80, 1058;3089;3108;3117;3136;3285;3362, 1058;3089;3108;3117;3136;3285;3362
+AP Ezreal, 81, 1036;1037;1055;3042;3078;3158;3340, 1036;1037;1055;3004;3078;3158;3340
+AP Mordekaiser, 82, 3020;3089;3116;3151;3152;3157;3340, 3020;3089;3116;3152;3157;3285;3340
+AP Yorick, 83, 3042;3072;3078;3083;3146;3158;3363, 3042;3072;3078;3083;3146;3158;3363
+AP Akali, 84, 3020;3089;3100;3135;3146;3157;3340, 3020;3089;3100;3116;3146;3157;3340
+AP Kennen, 85, 1052;1055;2003;3020;3136;3157;3340, 1026;3020;3089;3135;3151;3157;3340
+AP Garen, 86, 1056;2003;2004;2041;2043;2044;3340, 
+AP Leona, 89, 3027;3068;3116;3117;3143;3285;3340, 3027;3068;3116;3117;3143;3285;3340
+AP Malzahar, 90, 3020;3027;3089;3135;3157;3285;3340, 3020;3027;3089;3135;3157;3285;3340
+AP Talon, 91, 1036;2041;3078;3093;3134;3158;3340, 
+AP Riven, 92, 1058;3135;3136;3158;3165;3340;3504, 1058;3135;3136;3158;3165;3340;3504
+AP KogMaw, 96, 3020;3040;3089;3135;3157;3285;3363, 3020;3040;3089;3135;3157;3285;3363
+AP Shen, 98, 1029;1031;1054;3047;3068;3078;3340, 3089;3100;3101;3116;3158;3285;3340
+AP Lux, 99, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Xerath, 101, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Shyvana, 102, 3116;3135;3151;3152;3158;3285;3340, 3116;3135;3151;3152;3158;3285;3340
+AP Ahri, 103, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Graves, 104, 3001;3031;3072;3087;3089;3285;3340, 3001;3031;3072;3087;3089;3285;3340
+AP Fizz, 105, 3020;3089;3100;3135;3157;3285;3340, 3020;3089;3100;3135;3157;3285;3340
+AP Volibear, 106, 3078;3083;3116;3117;3340;3717;3801, 3078;3083;3116;3117;3340;3717;3801
+AP Rengar, 107, 3089;3113;3135;3157;3158;3285;3341, 3089;3113;3135;3157;3158;3285;3341
+AP Varus, 110, 3020;3089;3115;3135;3191;3285;3362, 3020;3089;3115;3135;3191;3285;3362
+AP Nautilus, 111, 3001;3025;3116;3117;3151;3340;3725, 3001;3025;3116;3117;3151;3340;3725
+AP Viktor, 112, 3020;3089;3135;3157;3198;3285;3340, 3020;3089;3135;3157;3198;3285;3340
+AP Sejuani, 113, 3001;3110;3117;3151;3211;3340;3725, 3001;3110;3117;3151;3211;3340;3725
+AP Fiora, 114, 1037;1053;1055;1055;3078;3158;3340, 
+AP Ziggs, 115, 3020;3089;3135;3157;3174;3285;3340, 3020;3089;3135;3157;3174;3285;3340
+AP Lulu, 117, 2004;2010;2049;3098;3108;3117;3341, 1026;1056;1058;3020;3165;3285;3340
+AP Draven, 119, 1055;1055;2003;3006;3072;3078;3342, 1055;1055;2003;3006;3072;3078;3342
+AP Hecarim, 120, 1028;1033;2041;3047;3078;3110;3340, 1029;2003;2041;3065;3078;3111;3340
+AP Khazix, 121, 1036;1053;3101;3117;3134;3146;3340, 
+AP Darius, 122, 2003;2004;3068;3078;3111;3155;3340, 2003;2004;3068;3078;3111;3155;3340
+AP Lissandra, 127, 3020;3027;3089;3135;3157;3285;3340, 3020;3027;3089;3135;3157;3285;3340
+AP Diana, 131, 3020;3089;3100;3135;3157;3285;3340, 3020;3089;3100;3135;3157;3285;3340
+AP Quinn, 133, 1001;1053;2003;2004;2041;3078;3340, 
+AP Syndra, 134, 3020;3089;3135;3157;3174;3285;3340, 3020;3089;3135;3157;3174;3285;3340
+AP Zyra, 143, 3020;3089;3135;3151;3157;3285;3340, 3020;3089;3135;3151;3157;3285;3340
+AP Gnar, 150, 1029;1031;1055;3047;3078;3143;3340, 1028;1033;1055;3068;3078;3111;3340
+AP Zac, 154, 3116;3117;3143;3151;3152;3340;3717, 3116;3117;3143;3151;3152;3340;3717
+AP Yasuo, 157, 1001;1055;2003;2044;3078;3087;3341, 1001;1055;2003;2044;3078;3087;3341
+AP Velkoz, 161, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Braum, 201, 1052;2045;3078;3101;3117;3341;3401, 1052;2045;3078;3101;3117;3341;3401
+AP Jinx, 222, 1058;3041;3108;3108;3191;3191;3340, 
+AP Lucian, 236, 1037;1038;1053;1055;3006;3078;3340, 1038;1055;2003;2004;3006;3078;3340
+AP Zed, 238, 1001;1055;2003;3074;3078;3134;3340, 1001;1055;2003;3074;3078;3134;3340
+AP Ekko, 245, 3020;3089;3100;3135;3157;3285;3340, 3020;3089;3100;3135;3157;3285;3340
+AP Vi, 254, 1011;1029;1029;3047;3078;3340;3707, 1011;2003;3047;3078;3082;3340;3707
+AP Aatrox, 266, 1011;3047;3082;3115;3153;3157;3340, 1011;3047;3082;3115;3153;3157;3340
+AP Nami, 267, 2049;3092;3108;3113;3117;3222;3341, 2049;3092;3108;3113;3117;3222;3341
+AP Azir, 268, 3020;3089;3135;3157;3165;3285;3340, 3020;3089;3135;3157;3165;3285;3340
+AP Thresh, 412, 3060;3065;3068;3069;3111;3116;3340, 2049;3041;3117;3165;3285;3301;3340
+AP RekSai, 421, 3113;3113;3113;3113;3113;3117;3341, 3108;3111;3114;3155;3157;3340;3707
+AP Bard, 432, 2004;2010;2043;2049;3092;3117;3341, 2010;2049;3028;3092;3114;3117;3341

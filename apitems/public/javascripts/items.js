@@ -465,7 +465,8 @@
         var table = $('#item-table');
         table.append('<thead><tr><th>Name</th><th>Popularity in 5.11</th><th>Popularity in 5.14</th><th>Win Rate in 5.11</th><th>Win Rate in 5.14</th><th>Popularity Change</th><th>Win Rate Change</th></tr></thead><tbody>');
         table_data.forEach(function(d) {
-          var row = [d.name, round3(d.popularity11), round3(d.popularity14), percent(d.winrate11), percent(d.winrate14)];
+          var name = '<a href="http://leagueoflegends.wikia.com/wiki/' + d.name + '">' + d.name + '</a>'; 
+          var row = [name, round3(d.popularity11), round3(d.popularity14), percent(d.winrate11), percent(d.winrate14)];
           if (d.popularity11 != '-' && d.popularity14 != '-') {
             row.push(round3(d.popularity14 - d.popularity11));
           } else row.push('-');
