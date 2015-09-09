@@ -321,7 +321,7 @@ def main():
                 #win_build = [item_id_to_name[str(i)] for i in win_build]
             else:
                 win_build = () 
-            f.write("%s, %d, %s, %s\n" % (champion_id_to_name[str(key)], key, str(build).replace(",", ";"), str(win_build).replace(",", ";")))
+            f.write("%s, %d, %s, %s\n" % (champion_id_to_name[str(key)], key, ';'.join(map(str,build)), ';'.join(map(str,win_build))))
             
 if __name__ == "__main__":
     main()
