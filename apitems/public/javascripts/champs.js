@@ -1,6 +1,6 @@
 (function() {
   var module = {};
-  var data_version = 'v7';
+  var data_version = 'v9';
   function load_data(callback) {
     var loaded = 0;
     var total_loads = 8;
@@ -611,7 +611,8 @@
             }
           } );
         table.DataTable({'columnDefs': [
-          {'type':'percent', 'targets':[0,1,2,3,4,5,6]}
+          {'type':'percent', 'targets':[1,2,3,4,5,6]},
+          {'type':'string', 'targets':0}
           ]});
     });
    
